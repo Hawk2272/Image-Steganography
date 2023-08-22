@@ -19,3 +19,8 @@ Extracting the text from the embedded image
 ![image](https://github.com/Hawk2272/Image-Steganography/assets/80514836/95ff9930-8d55-4070-a7a9-05bdaa570275)
 
 
+After Successfully extracting the text
+
+![image](https://github.com/Hawk2272/Image-Steganography/assets/80514836/77982be8-6537-4309-b9f4-54d84de0b87a)
+
+
